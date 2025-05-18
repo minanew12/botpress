@@ -15,8 +15,6 @@
 [Documentation](https://botpress.com/docs) •
 [Integrations](#integrations) •
 [Plugins](#plugins)
-
-<img src="https://user-images.githubusercontent.com/10071388/248040379-8aee1b03-c483-4040-8ee0-741554310e88.png" width="800">
   
 </div>
 
